@@ -14,20 +14,19 @@ To configure a secure development environment for cryptographic operations, incl
 *Please see the figures below for verification of steps taken.*
 
 **Fig 1: Development Environment Setup**
-![Git Status](cryptography%20week%201%20evidence/fig 1.png)
+/home/cyrus-nderui/CryptoGuard_Project/cryptography week 1 evidence/fig 1.png
 
 **Fig 2: Cryptography Library Installation**
-![Git Status](cryptography%20week%201%20evidence/fig 2.png)
+/home/cyrus-nderui/CryptoGuard_Project/cryptography week 1 evidence/fig 2.png
 
 **Fig 3: Encryption Script Execution**
-![Git Status](cryptography%20week%201%20evidence/fig 3.png)
+/home/cyrus-nderui/CryptoGuard_Project/cryptography week 1 evidence/fig 3.png
 
 **Fig 4: Git Version Control Initialization**
-![Git Status](cryptography%20week%201%20evidence/fig 4.png)
+/home/cyrus-nderui/CryptoGuard_Project/cryptography week 1 evidence/fig 4.png
 
 **Fig 5: Successful Remote Push**
-![Git Status](cryptography%20week%201%20evidence/fig 5.png)
-
+/home/cyrus-nderui/CryptoGuard_Project/cryptography week 1 evidence/fig 5.png
 ## 4. Challenges & Troubleshooting
 - *Example:* "I encountered a permission error when trying to use `git add .` due to hidden system folders. I resolved this by targeting only the necessary project files and using `.gitignore` to exclude local environment configurations."
 
