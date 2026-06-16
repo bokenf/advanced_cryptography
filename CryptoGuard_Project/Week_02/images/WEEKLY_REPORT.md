@@ -3,6 +3,7 @@
 ## Title: Implementation of Classical Encryption Algorithms
 
 ## Required Evidence
+
 **Fig 1: Caesar Cipher Implementation**
 ![Caesar](images/fig1.png)
 
@@ -19,4 +20,4 @@
 ![Testing](images/fig5.png)
 
 ## Student Reflection
-[Write your reflection here (Max 50 words). Address how the algorithms work, the importance of keys, the workflow, and the weaknesses you discovered.]
+I implemented Caesar and Vigenère ciphers to compare monoalphabetic and polyalphabetic encryption. Keys are vital as they dictate the transformation sequence. My workflow involved developing robust input validation to ensure data integrity. I identified that classical ciphers are weak against frequency analysis and pattern recognition, necessitating stronger modern cryptographic standards.
